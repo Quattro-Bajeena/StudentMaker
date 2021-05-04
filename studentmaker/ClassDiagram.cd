@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="my_class::item">
+    <Position X="15.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAACAAAAABAAAAQAAAAAAAAAASIABAAAAAAADAA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::test">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAEAIQIAAAAAAAEIEAOAQiAAAIAAAA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::diet">
+    <Position X="10.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAEAIAQAAAAAABAAAAAAAE=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::character">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIIZQEBCABABQAAJAAAAFAJBQGAFAoAQAAAAAAFAA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::activity">
+    <Position X="16.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAgAAAAAAAIAAAAAAAAAADAAAAQAAAAAAAAGI=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::lecture" Collapsed="true">
+    <Position X="24.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAEA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::work" Collapsed="true">
+    <Position X="6.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::learn" Collapsed="true">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAACAAAAAAAAAAEA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::tutoring" Collapsed="true">
+    <Position X="15.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAACAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::freetime" Collapsed="true">
+    <Position X="20.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAgEA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::sport" Collapsed="true">
+    <Position X="22.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAIAAAAAAAAAAAEA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::goout" Collapsed="true">
+    <Position X="27" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAIAAAAAEA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::distress" Collapsed="true">
+    <Position X="9" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAIAAAEA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::fatigue" Collapsed="true">
+    <Position X="13.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAABAAAAAAAAAAEA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::depression" Collapsed="true">
+    <Position X="18" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::consumable">
+    <Position X="15.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::pizza" Collapsed="true">
+    <Position X="15.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAABAAAAAAA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::anti_depress" Collapsed="true">
+    <Position X="17.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAAAAAAAA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::kebab" Collapsed="true">
+    <Position X="13" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAgAAAAA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::laptop">
+    <Position X="8.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::lenovo" Collapsed="true">
+    <Position X="6.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAABAAAAAAAAAA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::macbook" Collapsed="true">
+    <Position X="8.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::gaming_laptop" Collapsed="true">
+    <Position X="10.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::accessory">
+    <Position X="22" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::fedora" Collapsed="true">
+    <Position X="19.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::jacket" Collapsed="true">
+    <Position X="22" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::shades" Collapsed="true">
+    <Position X="24.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEAAAAA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my_class::ending">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAIAAAIAAIAAAAAgAAAAAIAAIAAAQAAQA=</HashCode>
+      <FileName>myclass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

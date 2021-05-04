@@ -1,0 +1,37 @@
+
+                    
+####################
+# Name: adam
+# Congratulations,
+ you were flawless
+# Score: 95
+# Grades mean: 3
+# You almost lived in a library
+####################
+                    
+####################
+# Name: mateusz
+# Congratulations,
+ you were flawless
+# Score: 100
+# Grades mean: 3.11
+# You almost lived in a library
+####################
+                    
+####################
+# Name: Mathew
+# You totally failed the exams
+# Score: 27
+# Grades mean: 2
+# You definetly took care of your body
+####################
+                    
+####################
+# Name: Paraon
+# Congratulations,
+ you were flawless
+# Score: 134
+# Grades mean: 3.89
+# You almost lived in a library
+####################
+                    
